@@ -13,6 +13,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+*{
+  margin: 0;
+  padding: 0;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -42,7 +47,8 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #fff;
+  color: #000;
   cursor: pointer;
   transition: border-color 0.25s;
 }

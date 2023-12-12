@@ -1,0 +1,26 @@
+.faq{
+  margin: 1rem 0;
+}
+
+.faq__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #000;
+  border-radius: 10px 10px 0px 0px;
+  padding: 1rem 0.5rem;
+
+}
+
+.toggle__btn {
+  cursor: pointer;
+}
+
+.description {
+  color: #fff;
+  text-align: left;
+  padding: 0.5rem;
+  border-top: 1px solid #ffffffa7;
+  background-color: #000000db;
+  border-radius: 0px 0px 10px 10px;
+}
